@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m ryusufx',
     'I design and code things on the web',
     'I\'m currently working on <a href="https://instagram.com/ryu.sufx" target="_blank">anime.js v4</a>',
-    'You can find me on <a target="_blank" href="https://instagram.com/ryu.sufx">Instagram</a>, <a target="_blank" href="facebook.com"FB</a> and <a target="_blank" href="https://instagram.com/ryu.sufx</a>',
+    'You can find me on <a target="_blank" href="https://instagram.com/ryu.sufx">Instagram</a>, <a target="_blank" href="facebook.com">FB</a> and <a target="_blank" href="https://instagram.com/ryu.sufx</a>',
     'Or contact me directly at <a href="mailto:whoami@ryusuf.my.id">whoami@ryusuf.my.id</a>',
     getCurrentTime(),
     '~ J.',
