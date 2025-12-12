@@ -26,10 +26,10 @@ window.onload = function() {
     'I\'m ryusufx',
     'I design and code things on the web',
     'I\'m currently working on <a href="https://instagram.com/ryu.sufx" target="_blank">anime.js v4</a>',
-    'You can find me on <a target="_blank" href="https://x.com/ryzf46">X</a>, <a target="_blank" href="https://facebook.com">Facebook</a> and <a target="_blank" href="https://ryusuf.com">WEB</a>',
-    'Or contact me directly at <a href="mailto:whoami@ryusuf.my.id">whoami@ryusuf.my.id</a>',
+    'You can find me on <a target="_blank" href="https://x.com/ryzf46">X</a>, <a target="_blank" href="https://facebook.com">Facebook</a> and <a target="_blank" href="https://ryusuf.com">Website</a>',
+    'Or contact me directly at <a href="mailto:me@ryusuf.com">me@ryusuf.com</a>',
     getCurrentTime(),
-    '~ ryusuf.me',
+    '~ ryusuf.com',
   ]
 
   var getFontSize = function() {
